@@ -49,6 +49,7 @@
         "@langfuse/client": "^4.4.9",
         "@langfuse/otel": "^4.4.4",
         "@langfuse/tracing": "^4.4.9",
+        "@next/env": "^16.4.6",
         "@next/third-parties": "^16.0.6",
         "@openrouter/ai-sdk-provider": "^2.10.0",
         "@opentelemetry/api": "^1.9.0",
